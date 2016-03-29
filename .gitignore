@@ -7,3 +7,5 @@
 *.force
 /Web/obj/Debug
 *.user
+*.suo
+/.vs/config/applicationhost.config
